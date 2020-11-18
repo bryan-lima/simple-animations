@@ -14,6 +14,10 @@ Veja a animação em **[Simple Animation | React](https://bryan-lima.github.io/s
 
 Repositório para estudos e testes.
 
+## 🔍 Créditos
+
+O conteúdo foi desenvolvido com base no artigo do **[Programador Viking](https://programadorviking.com.br/animacao-simples-utilizando-apenas-html-e-css/)**.
+
 ## 📃 Licença
 
 Este repositório está sob a licença [MIT][mit]. Consulte o arquivo [LICENSE](https://github.com/bryan-lima/simple-animations/blob/master/LICENSE) para obter mais detalhes.
